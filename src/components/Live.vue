@@ -1,4 +1,4 @@
-<template>
+No<template>
   <div class="live">
     <p class = "desc">
       위 애니메이션은 꼭 소리를 켜고 봐주세요!
@@ -17,7 +17,7 @@
         이렇게 알려드립니다.
       </p>
       <p class = "header">
-        22년 2월 19일 토요일<br />
+        22년 3월 26일 토요일<br />
         오전 11시 30분<br />
       </p>
       <p>
